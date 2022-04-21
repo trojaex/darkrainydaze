@@ -1,5 +1,4 @@
 - Add a bunch of icons (Astral, Click, Kite, Venture)
-- Complete film building? Not high priority
 - Complete hospital street / apartments / funstreet
 - Re-balance battle system
 - Battle sprites
