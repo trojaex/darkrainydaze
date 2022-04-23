@@ -17,6 +17,7 @@ Overall trigger warnings (may be updated if needed):
 > - blood and injury
 > - horror themes (there will be no jumpscares or screamers)
 > - body horror
+> - cults / religious themes
 
 -
 
