@@ -1,5 +1,0 @@
-- Add a bunch of icons (Astral, Click, Kite, Venture)
-- Complete hospital street / apartments / funstreet
-- Re-balance battle system
-- Battle sprites
-- FINISH THE INTRO YOU STUPID FUCK
