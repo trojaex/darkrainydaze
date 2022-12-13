@@ -22,4 +22,5 @@ Overall trigger warnings (may be updated if needed):
 -
 
 Mainly inspired by games such as Deltarune, Lobotomy Corporation, Library of Ruina, OMORI, OneShot, and Hollow Knight.
+
 This Github is currently used mostly for bug tracking.
